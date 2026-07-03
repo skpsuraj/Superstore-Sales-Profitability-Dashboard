@@ -32,6 +32,7 @@ performance.
 
 ## Screenshots
 ![Sales Overview](
+
 <img width="1277" height="716" alt="Dashboard_view_1" src="https://github.com/user-attachments/assets/866e355b-3cca-45f9-a19c-dc420268aea1" />
 )
 ![Product & Discount Analysis](
